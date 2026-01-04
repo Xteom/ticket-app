@@ -1,0 +1,10 @@
+telegram:
+  bot_token: "PUT_YOUR_BOT_TOKEN_HERE"
+
+app:
+  data_dir: "./data"
+  db_path: "./data/app.db"
+  downloads_dir: "./data/downloads"
+
+defaults:
+  account: "Cash"
